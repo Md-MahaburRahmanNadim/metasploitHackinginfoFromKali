@@ -1,0 +1,5 @@
+  504  netdiscover -r 10.0.2.0/24
+  505  nmap -sP 10.0.2.*(it work like netdiscover and to fast)
+  506  nmap -sV 10.0.2.5(it work for finding open port to fast as nmap -T4 -p- -A 10.0.2.5)
+	msfconsole (to open metasploitable frame work for exploit metasploitable 2 )
+ 

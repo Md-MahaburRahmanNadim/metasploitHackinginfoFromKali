@@ -1,0 +1,7 @@
+try to hack metasploitable via ssh:
+
+we know that ssh is open port on metasploitable 23 
+
+Here we are tring to hack metasploitable via brute force tecqunic into ssh 23 port
+
+

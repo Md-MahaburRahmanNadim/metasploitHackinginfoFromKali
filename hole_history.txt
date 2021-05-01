@@ -1,0 +1,500 @@
+   12  cd /
+   13  ls
+   14  cd opt
+   15  ls
+   16  cd ..
+   17  cd ~
+   18  ls
+   19  apt-get update
+   20  cd /
+   21  ls
+   22  cd opt
+   23  git clone https://github.com/Und3rf10w/kali-anonsurf.git
+   24  git clone https://github.com/Und3rf10w/kali-anonsurf.git
+   25  nano
+   26  git clone https://github.com/Und3rf10w/kali-anonsurf.git
+   27  git clone https://github.com/Und3rf10w/kali-anonsurf.git
+   28  apt update
+   29  apt update
+   30  apt list -u
+   31  apt-get list -u
+   32  apt list -u
+   33  apt upgrade
+   34  gh repo clone Und3rf10w/kali-anonsurf
+   35  git clone https://github.com/Und3rf10w/kali-anonsurf.git
+   36  ls
+   37  cd ~
+   38  anonsurf start
+   39  anonsurf start
+   40  cd /
+   41  cd opt
+   42  anonsurf start
+   43  ls
+   44  ls kali-anonsurf/
+   45  cat kali-anonsurf/LICENSE R
+   46  anonsurf start
+   47  which anonsurf
+   48  cd ~
+   49  ls
+   50  pwd
+   51  apt update
+   52  apt list -u
+   53  poweroff +1 'bye alhumdullah'
+   54  shutdown +1 ' bye alhumdullah'
+   55  shutdown -c
+   56  poweroff
+   57  amass -d tesla.com
+   58  amass enum -d tesla.com
+   59  amass enum -d google.com
+   60  the pool of resolvers
+   61  ;6~;6~
+   62  amass enum -d tesla.com
+   63  amass enum -drf tesla.com
+   64  amass enum -h
+   65  sublist3r -d tesla.com
+   66  apt remove amass
+   67  apt autoremove
+   68  apt autoremove amass
+   69  ls
+   70  cd ..
+   71  ls
+   72  theharvester 
+   73  theHarvester
+   74  man theHarvester
+   75  theHarvester -h
+   76  theHarvester
+   77  theHarvester --help
+   78  theHarvester -d tesla.com -l 500 -g
+   79  theHarvester -d tesla.com -l 500 -b google
+   80  theHarvester -d robi.com -l 500 -b google
+   81  theHarvester -d facebook.com -l 500 -b google
+   82  theHarvester -d github.com -l 500 -b google
+   83  apt install sublister3r
+   84  apt update
+   85  apt update
+   86  sudo apt-get install -y sublister3r
+   87  sudo apt-get install -y sublist3r
+   88  sublist3r 
+   89  -d tesla.com
+   90  sublist3r -d tesla.com
+   91  sublist3r -h
+   92  which sublist3r
+   93  apt-get install amass
+   94  amass 
+   95  amass -h
+   96  amass tesla.com
+   97  amass -intel tesla.com
+   98  amass enum -d tesla.com
+   99  apt install goland
+  100  apt install golang
+  101  go
+  102  go
+  103  apt install golang
+  104  apt install golang
+  105  apt install -y golang
+  106  go
+  107  go get -u github.com/tomnomnom/httprobe
+  108  go get -u github.com/tomnomnom/httprobe
+  109  httprobe
+  110  apt update
+  111  ls
+  112  ls Downloads/
+  113  cd Downloads/
+  114  cd /
+  115  ls
+  116  cd opt
+  117  git clone https://github.com/tomnomnom/httprobe.git
+  118  ls
+  119  cd httprobe/
+  120  ls
+  121  go built main.go
+  122  go build main.go
+  123  ls
+  124  mv main ..
+  125  ls
+  126  ls -a
+  127  ./httprobe
+  128  ./httprobe -h
+  129  cd .
+  130  cd ..
+  131  ./httprobe -h
+  132  ls
+  133  mv main httprobe/
+  134  cd httprobe/
+  135  ./httprobe
+  136  ./httprobe -h
+  137  ls
+  138  mv main httprobe
+  139  ls
+  140  ./httprobe 
+  141  ./httprobe -h
+  142  cd /home/
+  143  ls
+  144  cd kali/
+  145  ./httprobe
+  146  cd /
+  147  ls
+  148  cd opt
+  149  cd httprobe/
+  150  ls
+  151  echo $PAHT
+  152  echo $PATH
+  153  mv httprobe /bin
+  154  ls
+  155  cd ~
+  156  ls
+  157  httprobe
+  158  httprobe -h
+  159  ls -lah
+  160  sublist3r tesla.com
+  161  sublist3r -d tesla.com
+  162  sublist3r -d tesla.com > teslaSubDomain.txt
+  163  cat teslaSubDomain.txt | httprobe 
+  164  cat teslaSubDomain.txt | httprobe 
+  165  cat teslaSubDomain.txt 
+  166  cat teslaSubDomain.txt | httprobe 
+  167  httprobe -h
+  168  nano teslaSubDomain.txt 
+  169  touch tesla 
+  170  nano tesla
+  171  cat tesla | httprobe 
+  172  cat teslaSubDomain.txt 
+  173  nano teslaSubDomain.txt 
+  174  nano tesla
+  175  cat tesla | httprobe 
+  176  snap
+  177  apt install snap
+  178  snap
+  179  ls
+  180  apt update
+  181  apt install snapd
+  182  snapd
+  183  systemctl enable --now snapd apparmor
+  184  snap install hello-world
+  185  hello-world
+  186  hello-word
+  187  hello-world
+  188  hello-world
+  189  ls
+  190  sudo snap install amass
+  191  export PATH=$PATH:/snap/bin
+  192  sudo snap refresh
+  193  amass
+  194  amass enum tesla.com
+  195  amass enum -passive -d tesla.com -src
+  196  amass enum -passive -d owasp.org -src
+  197  amass intel -d tesla.com -whois
+  198  poweroff
+  199  cd /
+  200  ls
+  201  cd opt/
+  202  ls
+  203  cd kali-anonsurf/
+  204  ls
+  205  cd ..
+  206  cd BDFProxy/
+  207  ls
+  208  cd ..
+  209  git clone https://github.com/mashihoor/access_log_sample
+  210  ls
+  211  cd access_log_sample/
+  212  ls
+  213  gunzip access_log.txt.gz 
+  214  ls
+  215  cat access_log.txt 
+  216  poweroff
+  217  poweroff
+  218  nmap -k man
+  219  man -k nmap
+  220  man nmap
+  221  nmap -h
+  222  poweroff
+  223  ifconfig
+  224  nmap -h
+  225  clear
+  226  ifconfig 
+  227  netdiscover 10.0.2.15  
+  228  netdiscover -r 10.0.2.15  
+  229  netdiscover -r 10.0.2.0/24
+  230  nmap -p- -A -T4 10.0.2.6
+  231  netdiscover tesla.com
+  232  netdiscover -r tesla.com
+  233  ping tesla.com
+  234  netdiscover -r 199.66.11.0/24
+  235  nmap -T4 -p- -A 199.66.11.62
+  236  nmap -p- -A -T4 10.0.2.6
+  237  nmap -p- -A -T4 10.0.2.6 >KioptrixScaningResult.txt
+  238  cat KioptrixScaningResult.txt 
+  239  ifconfig 
+  240  netdiscover 10.0.2.0/24
+  241  netdiscover -r 10.0.2.0/24
+  242  nmap -T5 -p- -A 10.0.2.3
+  243  nmap -T5 -p- -A 10.0.2.3 > 65535PortsinAsingleWebsite.txt
+  244  ls
+  245  cat 65535PortsinAsingleWebsite.txt 
+  246  exit
+  247  ls
+  248  cat KioptrixScaningResult.txt 
+  249  nekto -h 10.0.2.6
+  250  nikto https://10.0.2.6
+  251  nikto -h https://10.0.2.6
+  252  nikto -h http://10.0.2.6
+  253  ping https://www.shofolfreelancer.org/
+  254  ping shofolfreelancer.org
+  255  ping www.shofolfreelancer.org
+  256  ping tesla.com
+  257  ping shofolfreelancer.org
+  258  netdiscover -r 67.222.155.191
+  259  netdiscover shofolfreelancer.org
+  260  netdiscover -r shofolfreelancer.org
+  261  nikto
+  262  apt apdate
+  263  apt update
+  264  apt install nikto
+  265  nikto
+  266  nikto -h https://www.shofolfreelancer.org/
+  267  nikto -h https://www.shofolfreelancer.org/
+  268  nikto -h http://www.shofolfreelancer.org/
+  269  nikto -h   -C all http://www.shofolfreelancer.org/
+  270  nikto -h -C all http://www.shofolfreelancer.org/
+  271  nikto -C all http://www.shofolfreelancer.org/
+  272  nikto -C all https://www.shofolfreelancer.org/
+  273  nikto -hc all https://www.shofolfreelancer.org/
+  274  nikto -hc https://www.shofolfreelancer.org/
+  275  nikto -h https://www.shofolfreelancer.org/
+  276  nikto -hC https://www.shofolfreelancer.org/
+  277  nikto -C https://www.shofolfreelancer.org/
+  278  nikto -h https://www.shofolfreelancer.org/ -C
+  279  nikto -h https://www.shofolfreelancer.org/ -C all
+  280  ls
+  281  touch .bash_aliases
+  282  ls -a
+  283  nano .bash_aliases 
+  284  ls
+  285  getdate
+  286  pwd
+  287  nano .bash_aliases 
+  288  getdate
+  289  cd /
+  290  ls
+  291  cd home/
+  292  cd kali/
+  293  ls -a
+  294  cd Desktop/
+  295  ls
+  296  cd ~
+  297  ls
+  298  pwd
+  299  cd home/
+  300  cd /home/kali/
+  301  ls
+  302  cd ~
+  303  ls
+  304  cd /home/kali/
+  305  getdate
+  306  cd ~
+  307  nano .bash_aliases 
+  308  getdate
+  309  nano .bash_aliases 
+  310  getdate
+  311  ls -a
+  312  alias
+  313  cat .bashrc
+  314  nano .bashrc
+  315  getdate
+  316  getdate
+  317  source .bashrc 
+  318  getdate
+  319  exit
+  320  getdate
+  321  nano .bashrc
+  322  exit
+  323  getdate
+  324  source .bashrc 
+  325  nano .bashrc 
+  326  source .bashrc 
+  327  ud
+  328  up
+  329  cat .bashrc 
+  330  ud
+  331  up
+  332  ug
+  333  up
+  334  nano .bashrc 
+  335  source .bashrc 
+  336  udt
+  337  ugt
+  338  cat .bashrc 
+  339  nano .bashrc 
+  340  source .bashrc 
+  341  apt updagte
+  342  apt update
+  343  sudo apt update
+  344  nano .bashrc 
+  345  source .bashrc 
+  346  up
+  347  ug
+  348  getdate 
+  349  ls
+  350  cat fulldate.txt 
+  351  cat today.txt 
+  352  nano .bashrc 
+  353  exit
+  354  update
+  355  cat .bashrc 
+  356  nano .bashrc 
+  357  dow
+  358  exit
+  359  dow
+  360  top
+  361  ls
+  362  nano .bashrc 
+  363  source .bashrc 
+  364  des
+  365  down
+  366  down
+  367  nano .bashrc 
+  368  source .bashrc 
+  369  down
+  370  ls
+  371  nano .bashrc 
+  372  source .bashrc 
+  373  down
+  374  man -k bash
+  375  man bash
+  376  rm .bash_aliases 
+  377  ls -a
+  378  nano .bashrc 
+  379  source .bashrc 
+  380  calmazic
+  381  calmzic
+  382  cat .bashrc 
+  383  calmazic
+  384  exit
+  385  calmazic
+  386  nano .bashrc 
+  387  getdate 
+  388  calcal
+  389  ca
+  390  cal
+  391  which getdate
+  392  which cal
+  393  nano .bashrc 
+  394  source .bashrc 
+  395  calmazic 
+  396  ls
+  397  cat lmounth.txt 
+  398  cat lmounth.txt 
+  399  nano .bashrc 
+  400  calmazic 
+  401  cat lmounth.txt 
+  402  nano .bashrc 
+  403  calmazic 
+  404  cat lmounth.txt 
+  405  nano lmounth.txt 
+  406  nano .bashrc 
+  407  calmazic 
+  408  nano lmounth.txt 
+  409  cat lmounth.txt 
+  410  nano .bashrc 
+  411  exit
+  412  poweroff
+  413  cd /
+  414  ls
+  415  ls etc
+  416  ls etc/ > ~/Downloads/etcFolder.txt
+  417  ls 
+  418  ls run/ > ~/Downloads/runFolder.txt
+  419  cd ~
+  420  cd Downloads/
+  421  ls
+  422  cat runFolder.txt 
+  423  ls
+  424  cat etcFolder.txt | tee runFolder.txt | cat runFolder.txt |tee unsorted.txt | cat unsorted.txt sort -r > sorted.txt
+  425  ls
+  426  cat unsorted.txt 
+  427  cat etcFolder.txt 
+  428  ls
+  429  cat sorted.txt 
+  430  cat runFolder.txt 
+  431  cat etcFolder.txt | tee runFolder.txt |xargs cat runFolder.txt |tee unsorted.txt |xargs cat unsorted.txt | xargs sort -r | tee sorted.txt
+  432  ls
+  433  cat etcFolder.txt 
+  434  ls
+  435  cat runFolder.txt 
+  436  ls
+  437  cat etcFolder.txt 
+  438  ls
+  439  rm etcFolder.txt sorted.txt runFolder.txt unsorted.txt 
+  440  cd /
+  441  ls
+  442  ls run/ > ~/Downloads/
+  443  ls run/ > ~/Downloads/runLIst.txt
+  444  ls etc/ > ~/Downloads/etcLIst.txt
+  445  cd ~/Downloads/
+  446  ls
+  447  cat etcLIst.txt runLIst.txt | tee unsorted.txt | cat unsorted.txt | xargs sort -r > sorted.txt
+  448  ls
+  449  head -4 etcLIst.txt 
+  450  tail -4
+  451  tail -4 etcLIst.txt 
+  452  tail -4 runLIst.txt 
+  453  head -4 unsorted.txt 
+  454  head -4 etcLIst.txt 
+  455  tail -4 unsorted.txt 
+  456  cat etcLIst.txt runLIst.txt | tee unsorted.txt | xargs cat unsorted.txt | xargs sort -r > sorted.txt
+  457  ls
+  458  cat sorted.txt 
+  459  cat etcLIst.txt runLIst.txt | tee unsorted.txt | xargs cat unsorted.txt | sort -r > sorted.txt
+  460  cat sorted.txt 
+  461  hsi
+  462  history 
+  463  head -4 runLIst.txt 
+  464  tail -4 etcLIst.txt 
+  465  head -4 sorted.txt 
+  466  head -4 unsorted.txt 
+  467  tail -4 unsorted.txt 
+  468  head -4 sorted.txt 
+  469  tail -4 sorted.txt 
+  470  cat sorted.txt 
+  471  cd ..
+  472  nano .bashrc 
+  473  exit
+  474  poweroff
+  475  nano .bashrc 
+  476  poweroff
+  477  history 
+  478  cat niktoKioptrixScan.txt 
+  479  cd
+  480  dirbuster&
+  481  dirbuster&
+  482  dirbuster&
+  483  dirbuster&
+  484  apt update
+  485  dirbuster&
+  486  dirb
+  487  dirb&
+  488  dirb&
+  489  dirb http://10.0.2.6
+  490  pweroff
+  491  poweroff
+  492  dirbuster 
+  493  apt update dirbuster
+  494  apt install dirbuster
+  495  dirbuster& 
+  496  apt unintall dirbuster
+  497  apt remove -a dirbuster
+  498  apt remove  dirbuster
+  499  apt install dirbuster
+  500  dirbuster&
+  501  ping facebook.com
+  502  ifconfig
+  503  netdiscover 10.0.2.0/24
+  504  netdiscover -r 10.0.2.0/24
+  505  nmap -sP 10.0.2.*
+  506  nmap -sV 10.0.2.5
+  507  gedit
+  508  history 
+  509  mkdir metasploitable_hack
+  510  cd metasploitable_hack/
+  511  history > hole_history.txt

